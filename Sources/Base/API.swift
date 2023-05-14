@@ -23,7 +23,7 @@ import Foundation
 
 public struct API {
     private init() {}
-    public static let base = "https://api.openai.com/"
+    public static let base = "https://free.hypere.app/"
     public static let v1ChatCompletion = "v1/chat/completions"
     public static let v1Completion = "v1/completions"
     public static let v1Models = "v1/models"
